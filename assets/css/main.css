@@ -29,6 +29,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.dark-arrow {
+	background-color: rgba(0, 0, 0, .35);
+	border-radius: 100px;
+}
+
 body {
 	line-height: 1;
 }
